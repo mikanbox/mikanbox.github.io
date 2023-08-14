@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>プライバシー・ポリシー</title>
+<style type="text/css">
+body{
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-size:12px;
+    background-color:#eaeaea;
+}
+#content {
+    background-color:white;
+    line-height:1.5;
+    width:540px;
+    padding:20px;
+    margin:50px auto 0;
+}
+h2{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+</style></head>
+<body><div id="content">
+    <h1>プライバシー・ポリシー</h1>
+    <p>本文書は、当サイトならびにGoogle Play上で公開中のアプリにおける個人情報の保護およびその適切な取り扱いについての方針を示したものです。</p>
+
+    <h2>個人情報について</h2>
+
+    <p>当サイトではサポートのためメールを公開しておりますが、受けたメールのアドレス、内容については個人情報として扱います。これら個人情報は、法令に基づき開示することが必要である場合を除いては第三者に提供しません。</p>
+    <p>また情報管理に関して当サイトは個人情報の漏えい及び滅失、き損を防止するため、適切な安全管理措置を講じ、十分なセキュリティー対策を施し、改善に努めます。</p>
+
+    <h2>アプリに関して</h2>
+    <p>Google Playおいて公開しているアプリにおいて第三者配信の広告サービス(AdMob)を利用しています。Google Inc.の提供する広告設定により、 Googleによるインタレストベース広告が表示されないようにオプトアウトいただくことが可能です。</p>
+
+    <p>Admobのプライバシポリシーについてはこちらhttps://support.google.com/admob/answer/6128543?hl=ja&ref_topic=2745287</p>
+    <p>オプトアウトについてはこちらhttps://support.google.com/ads/answer/2662922?hl=jaをご参照ください。</p>
+
+    <h2>Firebaseに関して</h2>
+    <p>Google Playおいて公開しているアプリにおいてクラッシュレポートのためにFirebaseを使用しています。</p>
+    <p>Firebaseについては下記を参照ください。</p>
+    <p>https://www.firebase.com/</p>
+    <p>https://firebase.google.com/terms/?hl=ja</p>
+
+    <h2>お問い合わせ</h2>
+
+    <p>当サイトは苦情及び個人情報取扱い窓口を設置し適正かつ迅速に対応いたします。以下メールにてお問い合わせください。</p>
+    <p>popolocrois55@gmail.com。</p>
+</div></body></html>
